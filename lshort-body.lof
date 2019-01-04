@@ -1,0 +1,12 @@
+\addvspace {10\p@ }
+\select@language {english}
+\select@language {english}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces The suggested front view road tracking zones, lines and anchor point}}{2}{figure.1.1}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces The road tracking motivations of segmented images: (a) the straight forward direction, (b) turning left direction, (c) turning right direction, (d) reverse or backward direction, (e-g) stopping action because of a single crossing object, (h-j) stopping action because of two crossing objects and (k) stopping action because of three crossing objects}}{3}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces The main design of the proposed DRL-RT. It consists of two conventional layers, two ReLU layers, a pooling layer, a fully connected layer, a regression layer and a classification layer}}{3}{figure.1.3}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces The training performance of the DRL-RT for the: (1) spring environment, (2) fog environment, (3) rain environment and (4) heavy-rain environment}}{12}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces The performance of the DRL-RT under different employed environments}}{13}{figure.3.2}
+\addvspace {10\p@ }
